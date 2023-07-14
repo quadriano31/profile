@@ -12,9 +12,9 @@ My Superpowers: 💻 🐍Python, SQL | ☁️ Azure | 🌐 GCP | 🛠️ Data En
 Experience:
 - 🔭 Data Engineer Extraordinaire,[Datyra](https://datyra.com)
 - 🔭 Cloud Support Hero, Tek-Experts Nigeria
-- 📫 Hit me up on [LinkedIn](https://www.linkedin.com/in/abdulquadri-ayodeji/) or shoot me an email at abdulquadri.oshoare@gmail.com.
+- 📫 Hit me up on [LinkedIn](https://www.linkedin.com/in/abdulquadri-ayodeji/) or shoot me an email at [Email](mailto:abdulquadri.oshoare@gmail.com)
 - 😄 Pronouns: he
 - 😄 Fun fact: When I'm not coding, you'll find me unleashing my creativity through painting, diving into captivating books, or crafting visually appealing cartoons. Let's bring some color and imagination into the mix! ✨
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quadriano31)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quadriano31)](https://github.com/anuraghazra/github-readme-stats) -->
  
