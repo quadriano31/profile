@@ -6,6 +6,7 @@ I am passionate about the work I do, but I am even more dedicated to cultivating
 My Superpowers: 💻 🐍Python, SQL | ☁️ Azure | 🌐 GCP | 🛠️ Data Engineering | 🐳 Docker | 👨‍💻 Git
 
 - 🌱 I’m currently learning Blockchain Technologies
+- 🔭 Senior Data Engineer, [Credit Direct Finance Company Limited](https://www.creditdirect.ng/)
 - 🔭 Data Engineer Extraordinaire,[Datyra](https://datyra.com)
 - 🔭 Ex Cloud Support Hero, Tek-Experts Nigeria
 - 📫 Hit me up on [LinkedIn](https://www.linkedin.com/in/abdulquadri-ayodeji/) or shoot me an email at [Email](mailto:abdulquadri.oshoare@gmail.com)
