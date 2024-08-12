@@ -7,7 +7,7 @@ My Superpowers: 💻 🐍Python, SQL | ☁️ Azure | 🌐 GCP | 🛠️ Data En
 
 - 🌱 I’m currently learning Blockchain Technologies
 - 🔭 Senior Data Engineer, [Credit Direct Finance Company Limited](https://www.creditdirect.ng/)
-- 🔭 Data Engineer Extraordinaire,[Datyra](https://datyra.com)
+- 🔭 Ex Data Engineer Extraordinaire,[Datyra](https://datyra.com)
 - 🔭 Ex Cloud Support Hero, Tek-Experts Nigeria
 - 📫 Hit me up on [LinkedIn](https://www.linkedin.com/in/abdulquadri-ayodeji/) or shoot me an email at [Email](mailto:abdulquadri.oshoare@gmail.com)
 - 😄 Pronouns: He/Him
